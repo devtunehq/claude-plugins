@@ -11,7 +11,7 @@
     {
       "name": "devtune",
       "source": "./plugins/devtune",
-      "description": "See what AI answer engines tell buyers about your product, what to fix next, and whether shipped fixes worked."
+      "description": "See what AI answer engines tell buyers about your product and which tools coding agents pick, what to fix next, and whether shipped fixes worked."
     }
   ]
 }

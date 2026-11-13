@@ -29,10 +29,13 @@ reconnect and choose another.
   demand.
 - **Actions:** the ranked fix queue, briefs, drafts and the site Audit.
 - **Results:** before/after measurement for shipped actions.
+- **Agent Picks:** which tool coding agents such as Claude Code and Codex pick
+  when asked to add a capability like auth, payments or email, how often they
+  pick you, and the losing scenarios to fix.
 - **Agents:** DevTune's managed agents and Dex, on plans that include them.
 
 Claude asks before calling a tool that changes project data or spends DevTune
-credits. DevTune never publishes content for you.
+credits. Agent Picks, managed agents and Dex depend on your DevTune plan. DevTune never publishes content for you.
 
 ## What it sends
 
@@ -47,12 +50,14 @@ each call. It sends nothing anywhere else. See the
 - `.mcp.json`: the DevTune MCP server.
 - `skills/get-started`: confirms which project is connected and what it can do.
 - `skills/devtune`: how to use the DevTune tools and report their numbers.
+- `skills/agent-picks`: how to read and run Agent Picks tests.
 
 ## Example prompts
 
 - How visible is my product in AI answers this month?
 - Which competitors get cited instead of us, and where?
 - What should we fix first to improve our AI visibility?
+- How often do coding agents pick us in our latest Agent Picks test?
 
 ## Support
 

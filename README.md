@@ -1,7 +1,7 @@
 # DevTune plugins for Claude
 
 The official DevTune plugin for Claude: see what AI answer engines tell buyers
-about your product, what to fix next, and whether shipped fixes worked, from
+about your product, which tools coding agents pick, what to fix next, and whether shipped fixes worked, from
 your DevTune project.
 
 ## Install in Claude Code

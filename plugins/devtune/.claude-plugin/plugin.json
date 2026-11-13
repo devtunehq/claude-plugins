@@ -1,8 +1,8 @@
 {
   "name": "devtune",
   "displayName": "DevTune",
-  "version": "1.0.0",
-  "description": "See what AI answer engines tell buyers about your product, what to fix next, and whether shipped fixes worked, from your DevTune project.",
+  "version": "1.1.0",
+  "description": "See what AI answer engines tell buyers about your product and which tools coding agents pick, what to fix next, and whether shipped fixes worked, from your DevTune project.",
   "author": {
     "name": "DevTune",
     "url": "https://devtune.ai/"
@@ -16,7 +16,8 @@
     "ai-search",
     "citations",
     "ai-traffic",
-    "answer-engine-optimization"
+    "answer-engine-optimization",
+    "agent-picks"
   ],
   "privacyPolicyUrl": "https://devtune.ai/privacy-policy"
 }
