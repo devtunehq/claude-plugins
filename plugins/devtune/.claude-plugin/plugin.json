@@ -19,5 +19,9 @@
     "answer-engine-optimization",
     "agent-picks"
   ],
-  "privacyPolicyUrl": "https://devtune.ai/privacy-policy"
+  "privacyPolicyUrl": "https://devtune.ai/privacy-policy",
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://docs.devtune.ai/api-reference/mcp-server",
+  "supportUrl": "https://devtune.ai/contact",
+  "termsOfServiceUrl": "https://devtune.ai/terms-of-service"
 }
