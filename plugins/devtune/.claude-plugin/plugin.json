@@ -1,0 +1,22 @@
+{
+  "name": "devtune",
+  "displayName": "DevTune",
+  "version": "1.0.0",
+  "description": "See what AI answer engines tell buyers about your product, what to fix next, and whether shipped fixes worked, from your DevTune project.",
+  "author": {
+    "name": "DevTune",
+    "url": "https://devtune.ai/"
+  },
+  "homepage": "https://docs.devtune.ai/api-reference/mcp-server",
+  "repository": "https://github.com/devtunehq/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "devtune",
+    "ai-visibility",
+    "ai-search",
+    "citations",
+    "ai-traffic",
+    "answer-engine-optimization"
+  ],
+  "privacyPolicyUrl": "https://devtune.ai/privacy-policy"
+}

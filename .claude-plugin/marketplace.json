@@ -1,0 +1,17 @@
+{
+  "name": "devtune-plugins",
+  "owner": {
+    "name": "DevTune",
+    "url": "https://devtune.ai/"
+  },
+  "metadata": {
+    "description": "Official DevTune plugins for Claude."
+  },
+  "plugins": [
+    {
+      "name": "devtune",
+      "source": "./plugins/devtune",
+      "description": "See what AI answer engines tell buyers about your product, what to fix next, and whether shipped fixes worked."
+    }
+  ]
+}

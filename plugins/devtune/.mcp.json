@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "devtune": {
+      "type": "http",
+      "url": "https://devtune.ai/api/mcp"
+    }
+  }
+}
